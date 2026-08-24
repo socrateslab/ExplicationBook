@@ -2,16 +2,16 @@
 
 
 
-# 《重组社会：行动者网络理论导论》
-## Reassembling the Social: An Introduction to Actor-Network-Theory
+# 《概念阐释》
+## Explication
 
-✍️作者：布鲁诺·拉图尔（Bruno Latour）
+✍️作者：Steven H. Chaffee
 
-- 本项目使用workbuddy处理为markdown，最后基于docsify构建。
+- 本项目基于docsify构建。
 
 
     
-[![stars](https://badgen.net/github/stars/socrateslab/hcanbook?icon=github&color=4ab8a1)](https://github.com/socrateslab/hcanbook) [![forks](https://badgen.net/github/forks/socrateslab/hcanbook?icon=github&color=4ab8a1)](https://github.com/socrateslab/hcanbook) 
+[![stars](https://badgen.net/github/stars/socrateslab/ExplicationBook?icon=github&color=4ab8a1)](https://github.com/socrateslab/ExplicationBook) [![forks](https://badgen.net/github/forks/socrateslab/ExplicationBook?icon=github&color=4ab8a1)](https://github.com/socrateslab/ExplicationBook) 
 
-[GitHub](<https://github.com/socrateslab/textasdata>)
+[GitHub](<https://github.com/socrateslab/ExplicationBook>)
 [开始阅读](README.md)
