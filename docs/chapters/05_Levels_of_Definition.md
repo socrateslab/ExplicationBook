@@ -72,9 +72,9 @@ Coding of communication content is a popular measurement activity that is common
 
 A single set of messages can be classified in many ways, and the few categories chosen need to be defined carefully. The three general principles for coding are as follows:
 
-a. There should be a place for everything; this is often called the principle of collectively exhaustive categories.
-b. There should be only one category for each unit; this is the principle of mutually exclusive categories.
-c. Each set of categories should be defined according to a single classificatory rule.
+- a. There should be a place for everything; this is often called the principle of collectively exhaustive categories.
+- b. There should be only one category for each unit; this is the principle of mutually exclusive categories.
+- c. Each set of categories should be defined according to a single classificatory rule.
 
 The first two principles are addressed by preliminary formulation of categories, partly through trial and error. Coding is to some extent inductive; if a type of item occurs with unanticipated frequency, it may even lead to a new focal variable. Reformulation proceeds until coders largely agree on the classification of items. The third principle is the most intellectual task in content coding. It does not mean that only one attribute can be used; but it does mean that each attribute used to form a typology should be separately explicated.
 
