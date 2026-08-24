@@ -1,5 +1,6 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
+   - [Foreword](/chapters/00_foreword.md)
    - [1. Concept Explication: An Overview ](/chapters/01_overview.md)
    - [2. Focal Concept](/chapters/02_focal_concept.md)
    - [3. Literature Search](/chapters/03_Literature_Search.md)
