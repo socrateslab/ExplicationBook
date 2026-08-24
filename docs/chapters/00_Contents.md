@@ -1,43 +1,59 @@
 # Contents
 
-_Source pages: 8–9_
+Foreword Steven H. Chaffee vii
 
-Acknowledgements ix
+1. Concept Explication: An Overview 1
+- "Things Are Not as They Seem" 2
+- Observation: The Empirical Base 4
+- Primitive and Derived Terms 7
+- Validity 10
+- Procedures and Queries in Explication
 
-Introduction: How to Resume the Task of Tracing Associations
+2. Focal Concept 14
+- Planned Use 15
+- Unit Definition 16
+- Relationship to Time 17
 
-Part I: How to Deploy Controversies
+3. Literature Search 18
+- Operational Contingencies 19
+- Analysis and Synthesis 21
 
-About the Social World
+4. Processing the Literature 22
 
-Introduction to Part I: Learning to Feed off Controversies
+5. Levels of Definition 24
+- Nominal Definition 24
+- Meaning Analysis 25
+- Empirical Definition 29
 
-First Source of Uncertainty: No Group, Only Group Formation
+6. Review of Definition 38
+- Specificity 38
+- Reification 39
+- Invariance of Usage 40
 
-Second Source of Uncertainty: Action Is Overtaken
+7. Modified Definition 43
 
-Third Source of Uncertainty: Objects too Have Agency
+8. Operational Procedures 43
+- Passive Versus Active Observation 44
+- Units of Observation 47
+- Sampling 47
 
-Fourth Source of Uncertainty: Matters of Fact vs. Matters of Concern
+9. Evaluation of Operational Definition 48
+- Empirical Description 48
+- Comparison to Prior Literature 49
+- Adequacy of Operational Definition 50
+- Modified Conceptual Definition 50
 
-Fifth Source of Uncertainty: Writing Down Risky Accounts
+10. Univariate Research 51
+- Unidimensionality 51
+- Evaluating Reliability 53
+- Validation 59
+- Summary 62
 
-On the Difficulty of Being an ANT: An Interlude in the Form of a Dialog
+11. An Example: Age as a Concept 62
 
-Part II: How to Render Associations
+12. Conclusion 72
 
-Traceable Again
-
-Introduction to Part II: Why is it so Difficult to Trace the Social?
-
-How to Keep the Social Flat
-
-First Move: Localizing the Global
-
-Second Move: Redistributing the Local
-
-Third Move: Connecting Sites Conclusion: From Society to Collective—Can the Social Be Reassembled?
-
-Bibliography
-
+References 74
+Author Index 79
+About the Author 81
 Index
