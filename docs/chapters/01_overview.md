@@ -43,6 +43,8 @@ Any operational procedure falls far short of observation of the whole process of
 
 The process of explication embraces both the conceptual world and the real world, crossing those lines repeatedly as the student attempts to improve conceptualization through research. This ongoing dialectic between operational and conceptual scholarship (Blalock, 1982) cannot be overemphasized here. What follows is a series of steps, in a logical sequence, to which the investigator can refer at various stages in a program of research on a concept. This is not, however, a recipe through which one proceeds step-by-step in the sense of the investigator "being done" with one stage once he or she has moved on to the next. Often research begins with a fuzzy idea or a topical term and its conceptual development can never be considered complete. The assiduous investigator can return to various points in this outline from time to time, comparing evidence to ideas in an ongoing process that will last as long as the concept continues to generate interest. This circularity of the explication process is diagramed schematically in Figure 1.1. For some scholars this can last a lifetime; rarely does it end with the completion of a single study.
 
+<img width="749" height="786" alt="image" src="https://github.com/user-attachments/assets/1e0dae13-4b0b-464a-a444-bb80e29b4ad7" />
+
 Figure 1.1 Concept Explication as an Iterative Process
 
 
