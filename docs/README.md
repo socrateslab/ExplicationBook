@@ -1,30 +1,32 @@
-# 《重组社会：行动者网络理论导论》
- 
-Reassembling the Social: An Introduction to Actor-Network-Theory, Oxford University Press, 2005
 
-✍️作者：布鲁诺·拉图尔（Bruno Latour）
 
-本项目使用workbuddy处理为markdown，最后基于docsify构建。
+# 《概念阐释》
+## Explication
+
+✍️作者：Steven H. Chaffee
+
+
+This series reviews enduring concepts that have guided scholarlyinquiry in communication, including their intellectual evolutionand their uses in current research. Each book is designed to provide organized background reading for those who intend furtherstudy of the subject.
+
+Steven H. Chaffee, Stanford University
+
+## About the Author
+Steven H. Chaffee (Ph.D., Stanford University, 1965) is Janet M. Peck Professor of International Communication at Stanford University. He has published six dozen articles, books, and chapters on research in the areas of mass media effects, political socialization, voter behavior, family communication, co-orientation, international communication, and research methods. His books include Using the Mass Media (with Michael Petrick), Political Communication (editor), Television and Human Behavior (with George Cornstock and others), and Handbook of Communication Science (co-edited with Charles Berger). He has served as editor of Communication Research: An International Quarterly and on the editorial boards of seven other journals and series. A former newspaper reporter and editor, he was Vilas Research Professor in the School of Journalism and Mass Communication at the University of Wisconsin-Madison, and has also taught at the University of California, Berkeley; the University of California, Los Angeles; and the University of Michigan.
+
 
 - [:octocat: 首页](/README)
 - :memo: 目录
-	- [Contents](/chapters/00_Contents.md)
-	- [Acknowledgements](/chapters/01_Acknowledgements.md)
-	- [Introduction: How to Resume the Task of Tracing Associations](/chapters/02_Introduction.md)
-	- Part I: How to Deploy Controversies
-	- [Introduction to Part I: Learning to Feed off Controversies](/chapters/03_Part_I_Introduction.md)
-	- [First Source of Uncertainty: No Group, Only Group Formation](/chapters/04_First_Source_No_Group.md)
-	- [Second Source of Uncertainty: Action Is Overtaken](/chapters/05_Second_Source_Action_Overtaken.md)
-	- [Third Source of Uncertainty: Objects too Have Agency](/chapters/06_Third_Source_Objects_Agency.md)
-	- [Fourth Source of Uncertainty: Matters of Fact vs. Matters of Concern](/chapters/07_Fourth_Source_Matters_of_Concern.md)
-	- [Fifth Source of Uncertainty: Writing Down Risky Accounts](/chapters/08_Fifth_Source_Writing_Accounts.md)
-	- [On the Difficulty of Being an ANT: An Interlude in the Form of a Dialog](/chapters/09_Interlude_Dialog.md)
-	- Part II: How to Render Associations
-	- [Introduction to Part II: Why is it so Difficult to Trace the Social?](/chapters/10_Part_II_Introduction.md)
-	- [How to Keep the Social Flat](/chapters/11_How_to_Keep_the_Social_Flat.md)
-	- [First Move: Localizing the Global](/chapters/12_First_Move_Localizing_the_Global.md)
-	- [Second Move: Redistributing the Local](/chapters/13_Second_Move_Redistributing_the_Local.md)
-	- [Third Move: Connecting Sites Conclusion: From Society to Collective—Can the Social Be Reassembled?](/chapters/14_Third_Move_Connecting_Sites.md)
-	- [Conclusion: From Society to Collective — Can the Social Be Reassembled?](/chapters/15_Conclusion.md)
-	- [Bibliography](/chapters/16_Bibliography.md)
-	- [Index](/chapters/17_Index.md)
+   - [1. Concept Explication: An Overview ](/chapters/01_overview.md)
+   - [2. Focal Concept](/chapters/02_focal_concept.md)
+   - [3. Literature Search](/chapters/03_Literature_Search.md)
+   - [4. Processing the Literature](/chapters/04_Processing_the_Literature.md)
+   - [5. Levels of Definition](/chapters/05_Levels_of_Definition.md)
+   - [6. Review of Definition](/chapters/06_Review_of_Definition.md)
+   - [7. Modified Definition](/chapters/07_Modified_Definition.md)
+   - [8. Operational Procedures](/chapters/08_Operational_Procedures.md)
+   - [9. Evaluation of Operational Definition](/chapters/09_Evaluation_of_Operational_Definition.md)
+   - [10. Univariate Research](/chapters/10_Univariate_Research.md)
+   - [11. An Example: Age as a Concept ](/chapters/11_An_Example_Age_as_a_Concept.md)
+   - [12. Conclusion](/chapters/12_Conclusion.md)
+   - [References](/chapters/13_References.md)
+   - [Author Index](/chapters/14_Author_Index.md)
