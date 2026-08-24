@@ -54,6 +54,8 @@ Foreword Steven H. Chaffee vii
 12. Conclusion 72
 
 References 74
+
 Author Index 79
+
 About the Author 81
 Index
