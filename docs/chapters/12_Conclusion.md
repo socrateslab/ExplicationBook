@@ -1,3 +1,13 @@
+## **12. 结语 (Conclusion)**
+
+概念阐释（Explication）与其他形式的定义截然不同。它的目的不仅在于发掘一个术语可能具备的含义，同样也在于剥离其过剩的含义（surplus meaning）。词典可能会从不同的语境中提供许多种含义，而概念阐释的目标则是聚焦于研究者所处的特定语境下的某种单一含义。研究目的在各个阶段以平行的方式指引着概念决策——从含义分析、经验定义一直到操作化定义。虽然本书强调在每个阶段都需要进行**回溯（refer back）**，将演进中的操作化概念与其预期的含义进行对比；但同样也需要**前瞻（refer forward）**，以便研究者能够开发出一个最终可以在操作层面上加以运用的概念定义。
+
+所有这一切显然都是**指称性/外延性的（denotative）**。其对立术语“涵义性/内涵性的（connotative）”有两种用法，但在概念阐释中这两种用法均被弃用。一种用法是语言共同体中的变异性概念，斯金纳（Skinner, 1957）认为这是内涵（connotation）唯一可以操作化的含义。而语言使用的一致性/不变性（invariance）恰恰是概念阐释所努力追求的标准之一（见第 6 章）。另一种更偏向文学色彩的内涵概念，是指一个术语在我们心中引发的诸多未明言的情感、判断和意象。含义分析（第 5 章）的目的之一，就是将概念中的这些元素公开化/显性化，以便我们能够决定其中哪些需要包含进来，哪些不需要。一个承载了过多思想包袱的术语，可能需要被一个细微差别较少的新名称所替代，以指代某个概念；正是通过识别这些关联含义，我们才开始有意识地做出此类决策。如果一个词语或短语在每个人心中都产生相同的心理/情感反应，那么这种反应就应该成为其外延含义的一部分。缺乏这一点，该术语就是模糊不清的。在与该术语打了一段时间交道后，研究者可以决定是将这些个人含义中的一部分作为概念的组成部分表达出来，还是将它们从经验定义中排除出去。
+
+概念阐释是一项研究计划中持续进行的组成部分，但它并不需要在任何节点都完整地呈现为一份长篇大论的文件。通常，在已发表的研究论文中，概念阐释部分会被浓缩为一段或仅有的几个段落——在其中，该概念被简要地与相关文献区分开来，并明确了它与当下操作化定义的联系。由于概念阐释告诉了我们应该从定义中排除什么，许多智力劳动在最终产出中可能仅表现为寥寥数页。原始研究中一些最优秀的概念阐释往往是最简短的。
+
+另一方面，对一个概念进行全面的阐释——展示其各种用法以及众多的操作性指称物（operational referents）——本身就可以写成一本书。本系列随后出版的各卷大致就属于这种性质：对那些已被证明对传播学领域有用的概念，在历史和现代研究语境下的含义进行广泛的综述。希望读者能够利用这些专著作为进一步在其特定研究中进行概念阐释的背景，并以此增强传播学作为一个学术学科的智力凝聚力（intellectual cohesion）。
+
 ## 12. Conclusion
 
 Explication is quite different from other forms of definition. Its purpose is as much to strip away surplus meaning from a term as it is to uncover possible meanings. Whereas a dictionary might offer many meanings, each from a different context, the goal in explication is to center upon one meaning for the particular context in which the researcher is working. The research purpose guides conceptual decisions in parallel fashion at each stage, from analysis of meaning through empirical definition to operational definition. While this book emphasizes the need to refer back at each stage, to compare an evolving operational concept with its intended meaning, there is just as much need to refer forward so that the researcher is developing a conceptual definition that can eventually be worked with operationally.
