@@ -3,15 +3,20 @@
 # 《概念阐释》
 ## Explication
 
-✍️作者：Steven H. Chaffee
+✍️作者：史蒂文·H·查菲 (Steven H. Chaffee)
 
 
-This series reviews enduring concepts that have guided scholarlyinquiry in communication, including their intellectual evolutionand their uses in current research. Each book is designed to provide organized background reading for those who intend furtherstudy of the subject.
+本丛书旨在梳理和审视指引传播学学术探索的那些具持久生命力的核心概念，涵盖其思想演进脉络及在当下研究中的具体应用。丛书中的每本著作均旨在提供系统化的背景读物，以供意欲对相关主题作进一步深入研究的学者参考。
 
-Steven H. Chaffee, Stanford University
+史蒂文·H·查菲 (Steven H. Chaffee)
 
-## About the Author
-Steven H. Chaffee (Ph.D., Stanford University, 1965) is Janet M. Peck Professor of International Communication at Stanford University. He has published six dozen articles, books, and chapters on research in the areas of mass media effects, political socialization, voter behavior, family communication, co-orientation, international communication, and research methods. His books include Using the Mass Media (with Michael Petrick), Political Communication (editor), Television and Human Behavior (with George Cornstock and others), and Handbook of Communication Science (co-edited with Charles Berger). He has served as editor of Communication Research: An International Quarterly and on the editorial boards of seven other journals and series. A former newspaper reporter and editor, he was Vilas Research Professor in the School of Journalism and Mass Communication at the University of Wisconsin-Madison, and has also taught at the University of California, Berkeley; the University of California, Los Angeles; and the University of Michigan.
+斯坦福大学
+
+
+## 作者简介
+
+**史蒂文·H·查菲 (Steven H. Chaffee)**（斯坦福大学博士，1965年）现任斯坦福大学珍妮特·M·佩克（Janet M. Peck）国际传播学讲席教授。他在大众媒体效果、政治社会化、选民行为、家庭传播、共向（co-orientation）、国际传播以及研究方法等领域发表与出版了数十篇（部）学术论文、专著及专著章节。他的著作包括《使用大众媒体》（*Using the Mass Media*，与迈克尔·佩特里克合著）、《政治传播》（*Political Communication*，主编）、《电视与人类行为》（*Television and Human Behavior*，与乔治·科姆斯托克等人合著）以及《传播科学手册》（*Handbook of Communication Science*，与查尔斯·伯格共同主编）。他曾担任《传播研究：国际季刊》（*Communication Research: An International Quarterly*）的主编，并在其他七家学术期刊与系列丛书的编委会任职。在进入学术界前，他曾任报社记者和编辑；他还曾任威斯康星大学麦迪逊分校新闻与大众传播学院的维拉斯（Vilas）研究教授，并曾任教于加州大学伯克利分校、加州大学洛杉矶分校以及密歇根大学。
+
 
 
 - [:octocat: 首页](/README)
